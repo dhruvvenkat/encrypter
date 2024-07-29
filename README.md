@@ -1,4 +1,4 @@
 # encrypter
-simple python script that does basic encryption/decryption // might make it more complex
+simple python script that does basic encryption/decryption w/ a tkinter GUI
 
-oh yeah also has a gui lmao
+adapted from "Coding Projects in Python" (DK Publishing)
